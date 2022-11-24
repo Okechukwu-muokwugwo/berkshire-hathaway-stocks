@@ -4,7 +4,7 @@ import { MdChevronLeft } from 'react-icons/md';
 import { GoGear } from 'react-icons/go';
 import { BiRightArrowCircle } from 'react-icons/bi';
 import './Home.css';
-import { getIndustryTitleStock } from '../redux/industry/industrySlice';
+import { getIndustryTitleStock } from '../../redux/industry/industrySlice';
 
 const Home = () => {
   const industryTitle = useSelector((state) => state.industryTitle);
