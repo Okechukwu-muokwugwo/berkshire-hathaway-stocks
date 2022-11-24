@@ -18,7 +18,7 @@ In this project, I  selected an API that provides numeric data about a topic tha
 - npm
 - babel
 - webpack-dev-server
-- duck pattern
+- redux @toolkits
 - API
 
 ## Live Demo
