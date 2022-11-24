@@ -3,9 +3,9 @@ import { Routes, Route } from 'react-router-dom';
 import hathaway from './assets/hathaway.jpg';
 import './App.css';
 import NavBar from './NavBar';
-import Details from './pages/Details';
-import Industry from './features/Industry';
-import Home from './pages/Home';
+import Details from './components/pages/Details';
+import Industry from './components/Industry';
+import Home from './components/pages/Home';
 
 function App() {
   return (
